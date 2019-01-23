@@ -1,2 +1,2 @@
 # My Projects Overview
-a brief intro to projects I was involved in during my career.
+a brief intro to projects I was involved in up to now
